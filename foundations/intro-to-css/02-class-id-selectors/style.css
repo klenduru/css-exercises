@@ -1,0 +1,25 @@
+p {
+    color:black;
+}
+
+
+.number { 
+    background-color: palevioletred;
+    font-size: 32px;
+}
+
+.number.three {
+    font-size: 38px;
+}
+
+
+#two {
+    color: blue;
+    font-size: 48px;
+}
+
+#four{
+    font-weight: bold;
+    font-size: 32px;
+    background-color: mediumseagreen;
+}
